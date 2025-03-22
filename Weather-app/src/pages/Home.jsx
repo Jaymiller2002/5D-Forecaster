@@ -26,7 +26,7 @@ const Home = () => {
             const dayOfWeek = date.toLocaleString("en-us", { weekday: "long" });
 
             // Only add one entry per day
-            if (groupedByDay.length < 7 && !groupedByDay.some(day => day.day === dayOfWeek)) {
+            if (groupedByDay.length < 5 && !groupedByDay.some(day => day.day === dayOfWeek)) {
                 groupedByDay.push({
                     day: dayOfWeek,
                     temp: forecast.main.temp,
