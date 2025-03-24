@@ -8,4 +8,8 @@ A 5 day weather app that allows you to see the data for any city and state.
 
 ##
 
-Known Bug: When searching for Lexington, Kentucky. Search Lexington-Fayette, Kentucky to get to data for Lexington. Not really sure why you need to be so specific but will find out.
+Known Bug: When searching for Lexington, Kentucky. 
+##
+Search Lexington-Fayette, Kentucky to get to data for Lexington. 
+##
+Not really sure why you need to be so specific but will find out.
